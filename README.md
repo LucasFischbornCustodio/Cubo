@@ -1,28 +1,22 @@
 Cubo
 
 
-void CUBO(float valor) {
-função de parametrizacao, neste caso optamos por chamala de CUBO e seu
-valor estara em float.
+A função denominada como CUBO será atribuida a uma variavel, optamos por chamala de "a", a função CUBO tem como objetivo elevar o valor da variavel "a" ao cubo.
 
   float resultado;
   resultado = (valor * valor * valor);
   printf("o valor eh %f", resultado);
 
-  aqui determinamos o processamento da variavel "resultado" e a saida para
-  visualizacao do usuario.
-}
+  
+Aqui determinamos o processamento da variavel "resultado" e a saída para
+visualização do usuário.
 
-int main() {
-  float a;
-
- optamos por utilizar float novamente
 
   printf("digite o valor que sera elevado ao cubo: ");
   scanf("%f", &a);
   CUBO(a);
 
-  O texto entre aspas estara disponivel para o usuario, um valor digitado pelo mesmo sera atribuido a uma variavel "a", esta sera condicionada a funcao CUBO assim concluindo o objetivo do algoritimo
+O texto entre aspas estara disponivel para o usuario, um valor digitado pelo mesmo sera atribuido a variavel "a", esta será condicionada a função CUBO assim concluindo o objetivo do algoritimo.
 
 
 
