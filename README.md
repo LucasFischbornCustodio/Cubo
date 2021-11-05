@@ -1,7 +1,5 @@
 Cubo
 
-#include <stdio.h>
-A biblioteca que sera utilizada.
 
 void CUBO(float valor) {
 função de parametrizacao, neste caso optamos por chamala de CUBO e seu
