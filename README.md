@@ -3,7 +3,7 @@ Cubo
 
 A função denominada como CUBO será atribuida a uma variavel, optamos por chamala de "a", a função CUBO tem como objetivo elevar o valor da variavel "a" ao cubo.
 
-  float resultado;
+  
   resultado = (valor * valor * valor);
   printf("o valor eh %f", resultado);
 
